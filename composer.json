@@ -1,0 +1,8 @@
+{
+    "name": "escape-7/vectoroop",
+    "autoload": {
+        "psr-4": {
+            "VectorOop\\": "src"
+        }
+    }
+}
