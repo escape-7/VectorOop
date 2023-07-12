@@ -5,6 +5,7 @@ error_reporting(-1);
 mb_internal_encoding('utf-8');
 
 
+
 class Department
 {
     private string $name;                             // Имя департамента
